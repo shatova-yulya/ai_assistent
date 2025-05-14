@@ -1,7 +1,7 @@
 ```markdown
 # ИИ-ассистент для записи на консультацию к психологу
 
-![Скриншот_1](https://github.com/shatova-yulya/ai_assistent/blob/main/%D0%91%D0%9E%D0%A2.png?raw=true)
+![Альтернативный текст](https://github.com/shatova-yulya/ai_assistent/blob/main/%D0%91%D0%9E%D0%A2.png?raw=true)
 
 ## Описание проекта
 

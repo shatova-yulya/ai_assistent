@@ -1,8 +1,8 @@
 ```markdown
 # ИИ-ассистент для записи на консультацию к психологу
 
-![Альтернативный текст](https://github.com/shatova-yulya/ai_assistent/blob/main/%D0%91%D0%9E%D0%A2.png?raw=true)
-
+![Скриншот](https://github.com/shatova-yulya/ai_assistent/blob/main/%D0%91%D0%9E%D0%A2.png?raw=true)
+https://github.com/shatova-yulya/ai_assistent/blob/main/%D0%91%D0%9E%D0%A2.png?raw=true
 ## Описание проекта
 
 Проект представляет собой интеллектуального помощника, разработанного для автоматизации процесса записи клиентов на онлайн-консультации с психологами.
